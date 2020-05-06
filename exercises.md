@@ -49,7 +49,7 @@ task doingFirstAndThen {
 
 
 
-**4 -** Specifiying that a task runs after another, it creates a 'contract' between two task
+**4 -** Specifiying that a task runs rigth after another, creating a 'contract' between both of them
 
 `(gradle -q saludation || gradle -q todayDate)`
 
